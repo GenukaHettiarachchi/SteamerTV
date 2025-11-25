@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "The Last Dawn",
+    "year": 2026,
+    "overview": "A sci-fi epic set on a colonized moon.",
+    "posterURL": "https://picsum.photos/600/900",
+    "trailerURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "fullMovieURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "isUpcoming": true
+  },
+  {
+    "id": "2",
+    "title": "Dark Waters",
+    "year": 2025,
+    "overview": "Mystery thriller about a missing diver.",
+    "posterURL": "https://picsum.photos/600/901",
+    "trailerURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "fullMovieURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "isUpcoming": false
+  }
+]
